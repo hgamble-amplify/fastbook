@@ -1,6 +1,15 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fastai/fastbook/master)  
 [English](./README.md) / [Spanish](./README_es.md) / [Korean](./README_ko.md) / [Chinese](./README_zh.md) / [Bengali](./README_bn.md) / [Indonesian](./README_id.md)
 
+**FOR AMPLIFY DATA SCIENTISTS: PLEASE RUN THE VIRTUAL ENVRIRONMENT SETUP SCRIPT IF THIS IS THE FIRST TIME YOU ARE CLONING THIS REPO USING THE FOLLOWING CODE:**
+chmod u+x setup_venv.sh
+./setup_venv.sh
+
+You can now test that this worked by running:
+source .venv/dl_learning/bin/activate
+
+You should see dl_learning in parenthesis to the left of your cursor in the terminal now.
+
 # The fastai book
 
 These notebooks cover an introduction to deep learning, [fastai](https://docs.fast.ai/), and [PyTorch](https://pytorch.org/). fastai is a layered API for deep learning; for more information, see [the fastai paper](https://www.mdpi.com/2078-2489/11/2/108). Everything in this repo is copyright Jeremy Howard and Sylvain Gugger, 2020 onwards.
