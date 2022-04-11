@@ -2,10 +2,10 @@
 [English](./README.md) / [Spanish](./README_es.md) / [Korean](./README_ko.md) / [Chinese](./README_zh.md) / [Bengali](./README_bn.md) / [Indonesian](./README_id.md)
 
 **FOR AMPLIFY DATA SCIENTISTS: PLEASE RUN THE VIRTUAL ENVRIRONMENT SETUP SCRIPT IF THIS IS THE FIRST TIME YOU ARE CLONING THIS REPO USING THE FOLLOWING CODE:**
-./setup_venv.sh
+`./setup_venv.sh`
 
 You can now test that this worked by running:
-source .venv/dl_learning/bin/activate
+`source ~/.venv/dl_learning/bin/activate`
 
 You should see dl_learning in parenthesis to the left of your cursor in the terminal now.
 
