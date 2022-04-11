@@ -2,7 +2,6 @@
 [English](./README.md) / [Spanish](./README_es.md) / [Korean](./README_ko.md) / [Chinese](./README_zh.md) / [Bengali](./README_bn.md) / [Indonesian](./README_id.md)
 
 **FOR AMPLIFY DATA SCIENTISTS: PLEASE RUN THE VIRTUAL ENVRIRONMENT SETUP SCRIPT IF THIS IS THE FIRST TIME YOU ARE CLONING THIS REPO USING THE FOLLOWING CODE:**
-chmod u+x setup_venv.sh
 ./setup_venv.sh
 
 You can now test that this worked by running:
